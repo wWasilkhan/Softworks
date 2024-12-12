@@ -1,0 +1,818 @@
+* {
+  font-family: 'poppins';
+  box-sizing: border-box;
+  background-color: #FAFAFA;
+  padding: 0;
+  margin: 0;
+}
+
+::selection{
+  background-color: #db0000;
+  color: #fff;
+}
+
+
+/* Navbar*/
+
+.navbar {
+  height: 100px;
+  justify-content: flex-end;
+  position: sticky;
+  top: 0;
+}
+
+.client-login-btn:hover {
+  background-color: #db0000;
+  border-color: #FAFAFA;
+}
+
+.start-project-btn:hover {
+  background-color: #FAFAFA;
+  border-color: black;
+  color: black;
+}
+
+.start-project-btn {
+  background-color: #db0000;
+}
+
+.navbar-text {
+  color: black;
+  font-size: large;
+  font-weight: 500;
+}
+
+.navbar-text:hover,
+.navbar-text:active {
+  color: #db0000;
+}
+
+/* Navbar */
+
+
+/* Header */
+
+.start-project-header-btn {
+  background-color: #db0000;
+}
+
+.start-project-header-btn:hover {
+  background-color: #FAFAFA;
+  color: #db0000;
+  border-color: #db0000;
+}
+
+/* Header */
+
+.start-project-header-btn-1 {
+  background-color: #FAFAFA;
+  color: #db0000;
+  border-color: #db0000;
+}
+
+.start-project-header-btn-1:hover {
+  background-color: #db0000;
+}
+
+/* Header btn*/
+/* Pricing */
+.price {
+  color: #e21515;
+  font-size: 16px;
+  font-weight: 600;
+  font-style: normal;
+  line-height: 24px;
+}
+
+.price-line {
+  font-size: 37px;
+  font-weight: 700;
+  line-height: 54px;
+  font-style: normal;
+}
+
+.price-para {
+  color: #464646;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+.price-btn {
+  text-decoration: none;
+  margin-top: 50px;
+  color: #e21515;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 34px;
+}
+
+.price-btn i {
+  margin-left: 10px;
+  color: #e21515;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 16px;
+}
+
+/* price start heading */
+.p-one p {
+  color: #e21515;
+  width: 400px;
+  background-color: #FFF4F4;
+  border-radius: 20px;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 34px;
+  letter-spacing: 5px;
+}
+
+.ms {
+  text-align: center;
+}
+
+/* price start heading */
+/* price and all images css */
+.err img {
+  border-radius: 25px;
+}
+
+.errr img {
+  width: 100%;
+  margin-top: 50px;
+  text-align: center;
+  height: 45vh;
+  border-radius: 25px;
+}
+
+.ser-2 {
+  padding: 30px;
+  margin-top: 30px;
+}
+
+/* price and all images css */
+/* line-1 */
+.line-1 p {
+  font-weight: 500;
+  font-style: normal;
+  font-size: 29px;
+  line-height: 36px;
+}
+
+/* line-1 */
+/* line-2 */
+.line-2 {
+  font-style: normal;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 36px;
+}
+
+/* line-2 */
+/* Cards price page */
+.ca-body {
+  height: 35vh;
+  border: 1px solid #e21515;
+  border-radius: 20px;
+  /* margin-bottom: 20px; */
+}
+
+.ca-title {
+  color: #e21515;
+  text-align: center;
+  margin-top: 25px;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 26px;
+  line-height: 46px;
+}
+
+.ca-title a {
+  color: #1d1d1d;
+  text-decoration: none;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 34px;
+}
+
+.ca-title i {
+  color: black;
+  margin-left: 8px;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 34px;
+}
+
+/* Pricing Page Ends card */
+.art {
+  text-align: left;
+  color: #e21515;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.art-2 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 40px;
+}
+
+/* Pricing Page Ends card */
+/* Cards price page*/
+
+/* Portfolio page and blog */
+/* line-3 */
+.line-3 {
+  padding-top: 0px;
+  margin-left: 0px;
+  margin-bottom: 60px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 36px;
+}
+
+/* line-3 */
+
+.por-1 {
+  text-align: center;
+  color: #e21515;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.por-2 {
+  color: #1d1d1d;
+  text-align: center;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 54px;
+}
+
+.por-3 {
+  color: #464646;
+  text-align: center;
+  font-style: normal;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+/* Portfolio images */
+.hovereffect {
+  width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  cursor: default;
+  border-radius: 40px;
+}
+
+.hovereffect .overlay {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out
+}
+
+.hovereffect img {
+  width: 100%;
+  height: 43vh;
+  display: block;
+  position: relative;
+  -webkit-transition: all .4s linear;
+  transition: all .4s linear;
+}
+
+.hovereffect h2 {
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  position: relative;
+  font-size: 17px;
+  background: rgba(0, 0, 0, 0.6);
+  -webkit-transform: translatey(-100px);
+  -ms-transform: translatey(-100px);
+  transform: translatey(-100px);
+  -webkit-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+  padding: 10px;
+}
+
+.hovereffect a.info {
+  text-decoration: none;
+  display: inline-block;
+  text-transform: uppercase;
+  color: #fff;
+  border: 1px solid #fff;
+  background-color: transparent;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  -webkit-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+  margin: 50px 0 0;
+  padding: 7px 14px;
+}
+
+.hovereffect a.info:hover {
+  box-shadow: 0 0 5px #fff;
+}
+
+.hovereffect:hover img {
+  -ms-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+/* Portfolio Cards */
+
+.por-card img {
+  height: 50vh;
+}
+
+/* Portfolio Cards */
+/* Portfolio page and blog */
+
+/* Seepricing in pricing page*/
+.sp-1 {
+  margin-top: 20px;
+  text-align: center;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 68px;
+}
+
+.sp-2 {
+  color: #e21515;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* Seepricing cards */
+.custom-card {
+  display: flex;
+  flex-direction: row;
+  height: 20vh;
+}
+
+.chead {
+  width: 30%;
+}
+
+.chead h1 {
+  margin-top: 35px;
+  margin-left: 30px;
+  color: #e21515;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 36px;
+}
+
+.cbody {
+  width: 40%;
+}
+
+.cbody p {
+  margin-top: 30px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 24px;
+}
+
+.cend {
+  width: 30%;
+}
+
+.cend p {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 24px;
+}
+
+.cbtn {
+  margin-left: 50px;
+}
+
+.pricing .card:hover {
+  margin-top: -.25rem;
+  margin-bottom: .25rem;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+}
+
+.pricing .card:hover .btn {
+  opacity: 1;
+}
+
+.pricing .card-body {
+  height: 100vh;
+}
+
+.pricing hr {
+  margin: 1.5rem 0;
+}
+
+.pricing .card-title {
+  color: black;
+  margin: 0.5rem 0;
+  font-size: 0.9rem;
+  letter-spacing: .1rem;
+  font-weight: bold;
+}
+
+.pricing .card-price {
+  color: #e21515;
+  font-size: 3rem;
+  margin: 0;
+}
+
+.pricing .card-price .period {
+  color: black;
+  font-size: 0.8rem;
+}
+
+.pricing ul li {
+  margin-bottom: 1rem;
+}
+
+.ps-btn {
+  margin-left: 70px;
+}
+
+.ps-btn-1 {
+  margin-left: 70px;
+  margin-top: 30px;
+}
+
+/* cardjson */
+.off-card {
+  height: 30vh;
+  border: 0px;
+  transition: background-color 0.3s ease;
+  border-radius: 20px;
+  background-color: #FAFAFA;
+  color: #1d1d1d;
+}
+
+.off-card:hover {
+  background-color: #e21515;
+  color: white;
+}
+
+.c-main {
+  background: none;
+}
+
+
+.latest-card {
+  height: 40vh;
+  border: 0px;
+  transition: background-color 0.3s ease;
+  border-radius: 20px;
+  background-color: #FAFAFA;
+  color: #1d1d1d;
+}
+
+.latest-card:hover {
+  background-color: #e21515;
+  color: white;
+}
+
+/* Seepricing cards */
+/* Seepricing in pricing page*/
+
+/* Media Query Pricing */
+@media (max-width: 425px) {
+
+  /* Pricing Page */
+  .price {
+    text-align: center;
+  }
+
+  .price-line {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+  }
+
+  .price-para {
+    text-align: center;
+  }
+
+  .price-btn {
+    margin-top: 0px;
+    text-align: center;
+  }
+
+  .errr {
+    margin-top: 0px;
+  }
+
+  .line-1 p {
+    text-align: center;
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 31px;
+  }
+
+  .ca-title {
+    margin-top: 45px;
+  }
+
+  .line-2 h2 {
+    margin-left: 23px;
+    font-style: normal;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 31px;
+  }
+
+  .ser-1 {
+    padding: 30px;
+    margin-top: -80px;
+  }
+
+  .ser-2 {
+    padding: 30px;
+    margin-top: -30px;
+  }
+
+  .p-one p {
+    color: #e21515;
+    width: 280px;
+    background-color: #FFF4F4;
+    border-radius: 20px;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 34px;
+    letter-spacing: 1px;
+  }
+
+  .ms {
+    text-align: center;
+  }
+
+  .res-line {
+    padding: 5px;
+    text-align: left;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31px;
+    font-style: normal;
+  }
+
+  .res-para {
+    padding: 5px;
+    text-align: left;
+    color: #464646;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+  }
+
+  /* Pricing Page  */
+
+  /* Portfolio Page */
+  .por-2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+  }
+
+  .hovereffect {
+    padding: 25px;
+  }
+
+  .art {
+    color: #e21515;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 24px;
+    text-align: left;
+  }
+
+  .art-2 {
+    text-align: center;
+    font-style: normal;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 36px;
+    text-align: left;
+    margin-bottom: 15px;
+  }
+
+  .line-3 {
+    margin: -25px 0 0 0;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 36px;
+  }
+
+  .por-card img {
+    height: 40vh;
+  }
+
+  .res-linee {
+    padding: 5px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31px;
+    font-style: normal;
+  }
+
+  .res-paraa {
+    padding: 5px;
+    text-align: center;
+    color: #464646;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+  }
+
+  .res-con {
+    width: 100%;
+    height: 120vh;
+    margin-bottom: 50px;
+  }
+
+  .por-body img {
+    width: 80%;
+    margin-top: -50px;
+  }
+
+  /* Portfolio Page */
+
+  /* Seeprice Page */
+  .sp-1 {
+    font-style: normal;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 50px;
+  }
+
+  /* seeprice cards */
+  .pricing .card-body {
+    height: max-content;
+  }
+
+  .ps-btn {
+    margin-left: 95px;
+  }
+
+  .ps-btn-1 {
+    margin-left: 100px;
+  }
+
+  .pricing .card:hover {
+    margin-top: -.25rem;
+    margin-bottom: .25rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+  }
+
+  .pricing .card:hover .btn {
+    opacity: 1;
+  }
+
+  .pricing .card:hover {
+    margin-top: -.25rem;
+    margin-bottom: .25rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+  }
+
+  .pricing .card:hover .btn {
+    opacity: 1;
+  }
+
+  .custom-card {
+    height: 70vh;
+    display: inline-block;
+    text-align: center;
+  }
+
+  .chead {
+    width: 100%;
+  }
+
+  .cbody {
+    width: 100%;
+  }
+
+  .cend {
+    width: 100%;
+  }
+
+  .cbtn {
+    margin-left: 30px;
+  }
+
+  .ps-btnn {
+    margin-left: 100px;
+  }
+
+  .off-card {
+    height: 50vh;
+  }
+
+  .latest-card {
+    height: max-content;
+  }
+}
+
+/* Read Article */
+
+.article-1 h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 50px;
+}
+
+/* Read Article */
+
+
+/* Footer */
+
+.footer-text {
+  color: black;
+}
+
+.footer-text:hover {
+  color: #db0000;
+}
+
+.copyright {
+  margin-top: 50px;
+  padding-top: 30px;
+  color: black;
+  border-top: 1px solid darkgray;
+  text-align: center;
+}
+
+.list-unstyled li a,
+.list-unstyled {
+  color: black;
+  text-decoration: none;
+  font-size: medium;
+}
+
+.list-unstyled li a:hover,
+.list-unstyled:hover {
+  color: #db0000;
+}
+
+.list-unstyled li .twiter:hover {
+  color: rgb(73, 113, 232);
+}
+
+.list-unstyled li .utube:hover {
+  color: #db0000;
+}
+
+.list-unstyled li .insta:hover {
+  color: rgb(184, 31, 118);
+}
+
+.list-unstyled li .fb:hover {
+  color: rgb(73, 113, 232);
+}
+
+.list-unstyled .behance:hover {
+  color: yellow;
+}
+
+/* Footer */

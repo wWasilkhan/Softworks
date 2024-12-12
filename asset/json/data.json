@@ -1,0 +1,173 @@
+let data= [
+   {
+       "c_title": "1. Ideation",
+       "c_para": "Starts by discussing client expectations and setting project deliverables, scope, unique features, and the cost of custom software development.",
+   },
+   {
+       "c_title": "2. Design & Development",
+       "c_para": "Wireframing + prototyping stages with backend + front-end development and API integrations.",
+   },
+
+   {
+       "c_title":"3. Robust Integrations & Plugins",
+       "c_para": "Leverage efficient APIs to turbocharge your website. Get more speed, less stress, and do it all with ease.",
+   },
+]
+let data2= [
+   {
+       "c_title": "4. Testing",
+       "c_para": "Once the software is ready. QA experts induct data and test the product in every way possible to ensure only the best user experience.",
+   },
+   {
+       "c_title": "5. Support & Maintenance",
+       "c_para": "Our team guarantees a smooth sailing experience with our end product, optimized to perfection.",
+   },
+]
+let harness= [
+   {
+       "c_title": "Website Development",
+       "c_para": "Great website development is about making sure the right message reaches your audience at the right time. That's why we provide custom website development with expert design and functionality- so you can efficiently reach your goals.",
+   },
+   {
+       "c_title": "Web Application Development",
+       "c_para": "We provide web application development combining the right strategy with efficient trends. Our application development experts design adaptable, secure solutions that are sure to give your users a one-of-a-kind experience.",
+   },
+   {
+       "c_title": "UI/UX Design",
+       "c_para": "Hire UI/UX design experts to amplify the user experience. We craft customized web and mobile application while making sure that each web design radiates with rich visuals and seamless navigation.",
+   },
+   {
+       "c_title": "eCommerce Development",
+       "c_para": "Take control of your web store with custom eCommerce development services. Our eCommerce development team leverages the power of robust tools and secure integrations, making sure your virtual store performs at scale",
+   },
+   {
+       "c_title": "Mobile Application Development",
+       "c_para": ">Attention-seekers rejoice! Our Mobile Application development experts use their know-how and the latest technology to create something your users won't soon forget. Got an idea that requires a hybrid or native app.",
+   },
+   {
+       "c_title": "API Development and Integration",
+       "c_para": "Supercharge your website with robust API integration & development. We use the magic of API to bring you value-driven systems, efficient web services, and an unbeatable user experience. With RevvLab as your tech partner.",
+   },
+]
+let service=[
+   {
+       "s_title": "APIs & SDKs",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Augmented Reality",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Blockchain Development",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Cloud Platform",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "CMS Platforms",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "E-Commerce Development",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Hardware Integration",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Hosting Services",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Hybrid Mobile App Development",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Logo Design",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Map Integrations",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Native Mobile App Develpoment",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Payment Gateway Integrations",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Social Integrations",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Technologies",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "UI/UX Design",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Virtual Reality",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Web Application Development",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Web Security",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Web Services",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Website Development",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Code Management",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Content Creation",
+       "s_btn": "Learn More"
+   },
+   {
+       "s_title": "Game Development",
+       "s_btn": "Learn More"
+   }
+]
+let c_price=[
+   {
+       "p_title": "Wed Development",
+       "p_btn": "Learn More"
+   },
+   {
+       "p_title": "Logo Design",
+       "p_btn": "Learn More"
+   },
+   {
+       "p_title": "UX/UI Design",
+       "p_btn": "Learn More"
+   }
+]
+let cl_price=[
+   {
+       "p_title": "Content Creation",
+       "p_btn": "Learn More"
+   },
+   {
+       "p_title": "Website Hosting",
+       "p_btn": "Learn More"
+   }
+]
